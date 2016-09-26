@@ -1,0 +1,29 @@
+ISim log file
+Running: C:\Users\Shiva Reddy\Desktop\FinalProject-Proj2\Risc_16_bit_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Shiva Reddy/Desktop/FinalProject-Proj2/Risc_16_bit_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+COUNTER INITIALIZED
+REGISTERS INITIALIZED
+READ ISTRUCTION SET TO 1
+Inside Risc_16_bit
+Instruction READ : 0000000010000000
+LOAD INSTRUCTION
+LOADED INSTRUCTION 0000000000000010  :
+Instruction READ : 0000000010000001
+LOAD INSTRUCTION
+LOADED INSTRUCTION 0000000000000001  :
+Instruction READ : 0010000001010000
+ADD INSTRUCTION
+ADD RESULT :  0
+Instruction READ : 0001001010000000
+STORE INSTRUCTION
+STORE COMPLETE 0000000000000000
+Finished circuit initialization process.
